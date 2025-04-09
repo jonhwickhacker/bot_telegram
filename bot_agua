@@ -5,8 +5,8 @@ import time
 import json
 import os
 
-BOT_TOKEN = 'TU_TOKEN_AQUI'  # Reemplaza con tu token real
-USUARIO_ID = 'TU_ID_AQUI'    # Opcional: reemplaza con tu user_id si deseas restringirlo
+BOT_TOKEN = '7946021025:AAF2pvJw0haz4QH98Uv-R6werDlt8MSw97g'  # Reemplaza con tu token real
+USUARIO_ID = '7195567580'    # Opcional: reemplaza con tu user_id si deseas restringirlo
 
 # Archivo para guardar el historial de vasos
 HISTORIAL_ARCHIVO = "historial_agua.json"
